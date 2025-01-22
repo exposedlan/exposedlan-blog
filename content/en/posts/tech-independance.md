@@ -14,7 +14,7 @@ If you're interested by the subject, I recently came across this really cool pdf
 
 ## Ok, how do I resolve this issue ? (basic)
 
-First, **don't use Chrome nor any chromium based browsers**, use **firefox or firefox based browsers**, then start using adblockers like [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) which supports **custom blocklists**, it means that you can block pretty much everything you want (trackers, gambling, pron, specific social networks, etc..)<br>
+First, **don't use Chrome nor any chromium based browsers**, use **firefox / brave or browsers based on them**, then start using adblockers like [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) which supports **custom blocklists** by the way, it means that you can block pretty much everything you want (trackers, gambling, pron, specific social networks, etc..)<br>
 Next, try to **stop using Cloud** services, or use them **as little as possible**. Your own data should be on your own hardware.
 
 <br>Use better privacy-focused apps/services for your social networks and messaging needs.

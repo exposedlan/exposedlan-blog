@@ -6,7 +6,37 @@
     <description>Recent content on exposedlan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 09 Jan 2025 01:04:19 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jan 2025 21:15:48 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apps &amp; Services I currently use</title>
+      <link>http://localhost:1313/posts/my_favorite_apps_2024/</link>
+      <pubDate>Wed, 22 Jan 2025 21:15:48 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/my_favorite_apps_2024/</guid>
+      
+      <description>&lt;h3 id=&#34;heres-the-list-of-appsservices-i-used-regularly-throughout-the-year&#34;&gt;Here&amp;rsquo;s the list of apps/services I used regularly throughout the year:&lt;/h3&gt;
+&lt;h3 id=&#34;apps&#34;&gt;Apps:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Web Browser:&lt;/strong&gt; &lt;a href=&#34;https://www.mozilla.org/firefox&#34;&gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✉️ &lt;strong&gt;RSS Client:&lt;/strong&gt; &lt;a href=&#34;https://apps.kde.org/akregator/&#34;&gt;Akregator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⌨️ &lt;strong&gt;Launcher&lt;/strong&gt; &lt;a href=&#34;https://wiki.archlinux.org/title/KRunner&#34;&gt;KRunner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🗣️ &lt;strong&gt;Chat:&lt;/strong&gt; &lt;a href=&#34;https://signal.org&#34;&gt;Signal&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://element.io/&#34;&gt;Element&lt;/a&gt; (Matrix)&lt;/li&gt;
+&lt;li&gt;🔩 &lt;strong&gt;Code Editor:&lt;/strong&gt; &lt;a href=&#34;https://kate-editor.org/&#34;&gt;Kate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🕹️ &lt;strong&gt;Game Launcher:&lt;/strong&gt; &lt;a href=&#34;https://heroicgameslauncher.com/&#34;&gt;Heroic Games Launcher&lt;/a&gt;, &lt;a href=&#34;https://usebottles.com/&#34;&gt;Bottles&lt;/a&gt; (for Fallout TTW), and Steam&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;services&#34;&gt;Services:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🗒️ &lt;strong&gt;Notes:&lt;/strong&gt; &lt;a href=&#34;https://github.com/siyuan-note/siyuan&#34;&gt;Siyuan Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💾 &lt;strong&gt;Git:&lt;/strong&gt;   &lt;a href=&#34;https://github.com/go-gitea/gitea&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;☁️ &lt;strong&gt;Cloud Storage:&lt;/strong&gt; &lt;a href=&#34;https://nextcloud.com/athome/&#34;&gt;Nextcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📒 &lt;strong&gt;Bookmarks:&lt;/strong&gt; &lt;a href=&#34;https://github.com/linkwarden/linkwarden&#34;&gt;Linkwarden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🔊 &lt;strong&gt;Music:&lt;/strong&gt; &lt;a href=&#34;https://www.plex.tv/plexamp/&#34;&gt;PlexAmp&lt;/a&gt; &amp;amp; sometimes Soundcloud and YT Music.&lt;/li&gt;
+&lt;li&gt;🔐 &lt;strong&gt;Passwords Management:&lt;/strong&gt; &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt; (&lt;a href=&#34;https://github.com/dani-garcia/vaultwarden&#34;&gt;Vaultwarden&lt;/a&gt; to be precise)&lt;/li&gt;
+&lt;li&gt;🔎 &lt;strong&gt;Search:&lt;/strong&gt; &lt;a href=&#34;https://searx.space/&#34;&gt;SearXNG&lt;/a&gt; (i use &lt;a href=&#34;https://searx.ox2.fr/&#34;&gt;this&lt;/a&gt; instance)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Tech Independance</title>
       <link>http://localhost:1313/posts/tech-independance/</link>

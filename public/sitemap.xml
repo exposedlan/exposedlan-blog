@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/my_favorite_apps_2024/</loc>
+    <lastmod>2025-01-22T21:15:48+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-09T01:04:19+01:00</lastmod>
+    <lastmod>2025-01-22T21:15:48+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-09T01:04:19+01:00</lastmod>
+    <lastmod>2025-01-22T21:15:48+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tech-independance/</loc>
     <lastmod>2025-01-09T01:04:19+01:00</lastmod>
