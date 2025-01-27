@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on exposedlan</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on exposedlan</description>
+    <title>Technology on exposedlan</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on exposedlan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 22 Jan 2025 21:15:48 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jan 2025 21:15:48 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps &amp; Services I currently use</title>
       <link>http://localhost:1313/posts/my_favorite_apps_2024/</link>
@@ -39,21 +39,6 @@
 &lt;li&gt;🔐 &lt;strong&gt;Passwords Management:&lt;/strong&gt; &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt; (&lt;a href=&#34;https://github.com/dani-garcia/vaultwarden&#34;&gt;Vaultwarden&lt;/a&gt; to be precise)&lt;/li&gt;
 &lt;li&gt;🔎 &lt;strong&gt;Search:&lt;/strong&gt; &lt;a href=&#34;https://searx.space/&#34;&gt;SearXNG&lt;/a&gt; (i use &lt;a href=&#34;https://searx.ox2.fr/&#34;&gt;this&lt;/a&gt; instance)&lt;/li&gt;
 &lt;/ul&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Tech Independance</title>
-      <link>http://localhost:1313/posts/tech-independance/</link>
-      <pubDate>Thu, 09 Jan 2025 01:04:19 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/tech-independance/</guid>
-      
-      <description>&lt;h2 id=&#34;why-&#34;&gt;Why ?&lt;/h2&gt;
-&lt;p&gt;Everyday we let big companies like &lt;em&gt;Google&lt;/em&gt;, &lt;em&gt;Meta&lt;/em&gt;, &lt;em&gt;X&lt;/em&gt;, &lt;em&gt;Reddit&lt;/em&gt;, etc, watch and remember parts of our lifes, and often sensitive parts that you shouldn&amp;rsquo;t share with others.&lt;br&gt;
-We trust people that we don&amp;rsquo;t know, giving them our sensitive data, all of it is on another&amp;rsquo;s person computer. Hundreds of cases happenned, companies keep getting hacked and critical informations as social security numbers, names, address, etc.. keeps leaking to the public, and it still happening to this day.&lt;br&gt;&lt;br&gt;
-If you&amp;rsquo;re interested by the subject, I recently came across this really cool pdf by &lt;em&gt;Psychcool&lt;/em&gt; :
-&lt;br&gt;&lt;sub&gt;&lt;sup&gt;(sadly he seems to have deleted almost all of his accounts, I hope he&amp;rsquo;s doing well)&lt;/sub&gt;&lt;/sup&gt;&lt;/p&gt;</description>
       
     </item>
     

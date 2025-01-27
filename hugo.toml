@@ -15,6 +15,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 # traditional way: theme component resides in directory 'themes' 
 theme = "hugo-blog-awesome"
 
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 30
+
 # modern way: pull in theme component as hugo module
 #[module]
   # Uncomment the next line to build and serve using local theme clone declared in the named Hugo workspace:

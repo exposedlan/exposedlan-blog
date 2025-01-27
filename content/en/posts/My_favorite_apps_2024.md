@@ -1,20 +1,24 @@
 +++
 date = '2025-01-22T21:15:48+01:00'
 draft = false
+tags = ['Technology']
 title = 'Apps & Services I currently use'
 +++
 
 ### Here's the list of apps/services I used regularly throughout the year:
 
-### Apps:
+## Apps:
 - 🌐 **Web Browser:** [Firefox](https://www.mozilla.org/firefox)
 - ✉️ **RSS Client:** [Akregator](https://apps.kde.org/akregator/)
 - ⌨️ **Launcher** [KRunner](https://wiki.archlinux.org/title/KRunner)
 - 🗣️ **Chat:** [Signal](https://signal.org) & [Element](https://element.io/) (Matrix)
 - 🔩 **Code Editor:** [Kate](https://kate-editor.org/)
 - 🕹️ **Game Launcher:** [Heroic Games Launcher](https://heroicgameslauncher.com/), [Bottles](https://usebottles.com/) (for Fallout TTW), and Steam
+### CLI:
+- ⌨️ ***ls* alternative:** [Eza](https://github.com/eza-community/eza)
 
-### Services:
+## Services:
+- 🌐 **This blog** [Hugo](https://gohugo.io/)
 - 🗒️ **Notes:** [Siyuan Notes](https://github.com/siyuan-note/siyuan)
 - 💾 **Git:**   [Gitea](https://github.com/go-gitea/gitea)
 - ☁️ **Cloud Storage:** [Nextcloud](https://nextcloud.com/athome/)

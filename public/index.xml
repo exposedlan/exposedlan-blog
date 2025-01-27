@@ -15,7 +15,7 @@
       <guid>http://localhost:1313/posts/my_favorite_apps_2024/</guid>
       
       <description>&lt;h3 id=&#34;heres-the-list-of-appsservices-i-used-regularly-throughout-the-year&#34;&gt;Here&amp;rsquo;s the list of apps/services I used regularly throughout the year:&lt;/h3&gt;
-&lt;h3 id=&#34;apps&#34;&gt;Apps:&lt;/h3&gt;
+&lt;h2 id=&#34;apps&#34;&gt;Apps:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;🌐 &lt;strong&gt;Web Browser:&lt;/strong&gt; &lt;a href=&#34;https://www.mozilla.org/firefox&#34;&gt;Firefox&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;✉️ &lt;strong&gt;RSS Client:&lt;/strong&gt; &lt;a href=&#34;https://apps.kde.org/akregator/&#34;&gt;Akregator&lt;/a&gt;&lt;/li&gt;
@@ -24,8 +24,13 @@
 &lt;li&gt;🔩 &lt;strong&gt;Code Editor:&lt;/strong&gt; &lt;a href=&#34;https://kate-editor.org/&#34;&gt;Kate&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🕹️ &lt;strong&gt;Game Launcher:&lt;/strong&gt; &lt;a href=&#34;https://heroicgameslauncher.com/&#34;&gt;Heroic Games Launcher&lt;/a&gt;, &lt;a href=&#34;https://usebottles.com/&#34;&gt;Bottles&lt;/a&gt; (for Fallout TTW), and Steam&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;services&#34;&gt;Services:&lt;/h3&gt;
+&lt;h3 id=&#34;cli&#34;&gt;CLI:&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;⌨️ &lt;strong&gt;&lt;em&gt;ls&lt;/em&gt; alternative:&lt;/strong&gt; &lt;a href=&#34;https://github.com/eza-community/eza&#34;&gt;Eza&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;services&#34;&gt;Services:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🌐 &lt;strong&gt;This blog&lt;/strong&gt; &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🗒️ &lt;strong&gt;Notes:&lt;/strong&gt; &lt;a href=&#34;https://github.com/siyuan-note/siyuan&#34;&gt;Siyuan Notes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💾 &lt;strong&gt;Git:&lt;/strong&gt;   &lt;a href=&#34;https://github.com/go-gitea/gitea&#34;&gt;Gitea&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;☁️ &lt;strong&gt;Cloud Storage:&lt;/strong&gt; &lt;a href=&#34;https://nextcloud.com/athome/&#34;&gt;Nextcloud&lt;/a&gt;&lt;/li&gt;
