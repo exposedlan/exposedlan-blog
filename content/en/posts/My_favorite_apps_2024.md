@@ -1,7 +1,7 @@
 +++
 date = '2025-01-22T21:15:48+01:00'
 draft = false
-tags = ['Technology']
+tags = ['Technology', 'Self-Hosting', 'Apps']
 title = 'Apps & Services I currently use'
 +++
 
