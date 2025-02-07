@@ -78,10 +78,15 @@ weight = 30
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
+    pageRef="tags"
+    name = 'Tags'
+    url = '/tags/'
+    weight = 30
+  [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 30
+    weight = 40
 
 [Languages.en-gb.params]
   sitename = "exposedlan"
