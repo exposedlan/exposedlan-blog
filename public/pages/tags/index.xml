@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on exposedlan</title>
+    <link>http://localhost:1313/pages/tags/</link>
+    <description>Recent content in tags on exposedlan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 08 Feb 2025 00:43:45 +0100</lastBuildDate><atom:link href="http://localhost:1313/pages/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

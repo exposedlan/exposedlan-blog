@@ -90,7 +90,7 @@ weight = 30
 
 [Languages.en-gb.params]
   sitename = "exposedlan"
-  defaultColor = "dark" # set color mode: dark, light, auto
+  defaultColor = "auto" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
@@ -115,8 +115,8 @@ weight = 30
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "exposedlan"
-  name = "H. C"
-  description = "Hi! I'm [■■■■■■■], here you can find posts about tech stuff and for the most cases linux related content. Yet, this does not prevent me from talking about anything if I want to 😃"
+  name = "exposed"
+  description = "Hi! here you can find posts about tech stuff and for the most cases linux related content. Yet, this does not prevent me from talking about anything if I want to 😃"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -135,11 +135,11 @@ weight = 30
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/exposedlan"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "matrix"
+url = "https://matrix.to/#/@exposedlan:matrix.org"
 
 [[params.socialIcons]]
 name = "Rss"
